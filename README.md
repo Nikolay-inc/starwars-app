@@ -5,7 +5,7 @@ Clone the Repository:
 1. Start by cloning the repository to your local machine. Open your terminal and run the following command:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Nikolay-inc/starwars-app.git
 ```
 
 2. Navigate to the project directory and install the required dependencies using npm or yarn:
