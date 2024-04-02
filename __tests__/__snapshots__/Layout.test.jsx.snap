@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RootLayout Component matches snapshot 1`] = `
+<div>
+  <html
+    lang="en"
+  >
+    <body
+      class="className"
+    >
+      <header
+        class="header"
+        data-testid="header"
+      >
+        StarWars Heroes
+      </header>
+      <div
+        class="layout"
+      >
+        <div
+          data-testid="child"
+        >
+          Child Component
+        </div>
+      </div>
+      <footer
+        class="footer"
+        data-testid="footer"
+      >
+        <span>
+          StarWars
+        </span>
+      </footer>
+    </body>
+  </html>
+</div>
+`;

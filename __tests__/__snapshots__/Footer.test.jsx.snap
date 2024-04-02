@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component matches snapshot 1`] = `
+<div>
+  <footer
+    class="footer"
+    data-testid="footer"
+  >
+    <span>
+      StarWars
+    </span>
+  </footer>
+</div>
+`;

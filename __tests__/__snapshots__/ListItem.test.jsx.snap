@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem component matches snapshot 1`] = `
+<div>
+  <div
+    class="chakra-accordion css-0"
+  >
+    <div
+      class="chakra-accordion__item css-1te8kxg"
+    >
+      <h2>
+        <button
+          aria-controls="accordion-panel-:r4:"
+          aria-expanded="false"
+          class="chakra-accordion__button css-ubg1nw"
+          data-index="0"
+          id="accordion-button-:r4:"
+          type="button"
+        >
+          <span
+            class="css-1eziwv"
+          >
+            <a
+              class="chakra-link css-jbu2m3"
+              href="/people/1"
+            >
+              Luke Skywalker
+            </a>
+          </span>
+          <svg
+            aria-hidden="true"
+            class="chakra-icon chakra-accordion__icon css-8o5ky2"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+              fill="currentColor"
+            />
+          </svg>
+        </button>
+      </h2>
+      <div
+        class="chakra-collapse"
+        style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+      >
+        <div
+          aria-labelledby="accordion-button-:r4:"
+          class="chakra-accordion__panel css-b0qdn7"
+          id="accordion-panel-:r4:"
+          role="region"
+        >
+          <div>
+            <div
+              class="chakra-stack css-j7qwjs"
+            >
+              <div
+                class="css-0"
+              >
+                <p
+                  class="chakra-text css-1tqud6q"
+                >
+                  Height - 
+                  172
+                </p>
+                <p
+                  class="chakra-text css-1tqud6q"
+                >
+                  Mass - 
+                  77
+                </p>
+              </div>
+              <div
+                class="chakra-stack__divider css-1jj487w"
+              />
+              <div
+                class="css-0"
+              >
+                <p
+                  class="chakra-text css-1tqud6q"
+                >
+                  Hair Color - 
+                  blond
+                </p>
+                <p
+                  class="chakra-text css-1tqud6q"
+                >
+                  Skin Color - 
+                  fair
+                </p>
+                <p
+                  class="chakra-text css-1tqud6q"
+                >
+                  Eye Color - 
+                  blue
+                </p>
+              </div>
+              <div
+                class="chakra-stack__divider css-1jj487w"
+              />
+              <div
+                class="css-0"
+              >
+                <p
+                  class="chakra-text css-1tqud6q"
+                >
+                  Birth Year - 
+                  19BBY
+                </p>
+                <p
+                  class="chakra-text css-1tqud6q"
+                >
+                  Gender - 
+                  male
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

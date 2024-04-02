@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound Component matches snapshot 1`] = `
+<div>
+  <div
+    class="notFoundWrapper"
+    data-testid="not-found-wrapper"
+  >
+    <h1>
+      Page not found
+    </h1>
+    <p>
+      Could not find requsted resourse
+    </p>
+  </div>
+</div>
+`;

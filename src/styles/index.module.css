@@ -1,0 +1,13 @@
+.layout {
+  min-height: calc(100vh - 120px);
+}
+
+/* for error page */
+.notFoundWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 40px;
+  height: calc(100vh - 120px);
+}
